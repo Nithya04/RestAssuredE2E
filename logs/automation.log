@@ -1,0 +1,113 @@
+20.04.55.856[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nithya\AppData\Local\Temp\testng-eclipse-1082276385\testng-customsuite.xml"
+20.04.56.295[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.300[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+20.04.56.303[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.303[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.304[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.305[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.306[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.306[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.315[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+20.04.56.335[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+20.04.56.336[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.336[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.336[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.337[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.337[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.337[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.339[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.339[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.340[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.340[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.345[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.346[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.346[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.346[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.352[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+20.04.56.353[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.354[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.355[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.355[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.04.56.355[main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.04.56.370[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nithya\AppData\Local\Temp\testng-eclipse-1082276385\testng-customsuite.xml
+
+20.04.56.398[main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+20.04.56.728[main] INFO  api.test.UserTest - ********Creating User***********
+20.05.00.485[main] INFO  api.test.UserTest - ******** User Created**********
+20.05.00.691[main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@33837bd4: 106 ms
+20.05.00.692[main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@61c145cb: 0 ms
+20.05.00.704[main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5ccc971e: 11 ms
+20.05.00.713[main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5ffdd510: 9 ms
+20.05.00.723[main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6d9ee75a: 9 ms
+20.05.00.724[main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@9825465: 1 ms
+20.06.40.593[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml"
+20.06.40.613[main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml] otherwise TestNG may fail or not work as expected.
+20.06.40.897[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml
+
+20.06.41.409[main] INFO  api.test.UserTest - ********Creating User***********
+20.06.44.803[main] INFO  api.test.UserTest - ******** User Created**********
+20.06.44.819[main] INFO  api.test.UserTest - ********Reading User Info***********
+20.06.45.993[main] INFO  api.test.UserTest - ********Retrieved User***********
+20.06.45.997[main] INFO  api.test.UserTest - ********Updating User***********
+20.06.48.311[main] INFO  api.test.UserTest - ******** User updated***********
+20.06.48.315[main] INFO  api.test.UserTest - ********Deleting User***********
+20.06.49.475[main] INFO  api.test.UserTest - ********User Deleted***********
+17.39.33.193[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml"
+17.39.33.216[main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml] otherwise TestNG may fail or not work as expected.
+17.39.33.631[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml
+
+17.39.34.136[main] INFO  api.test.UserTest - ********Creating User***********
+17.39.37.627[main] INFO  api.test.UserTest - ******** User Created**********
+17.39.37.646[main] INFO  api.test.UserTest - ********Reading User Info***********
+17.39.39.206[main] INFO  api.test.UserTest - ********Retrieved User***********
+17.39.39.209[main] INFO  api.test.UserTest - ********Updating User***********
+17.39.42.234[main] INFO  api.test.UserTest - ******** User updated***********
+17.39.42.237[main] INFO  api.test.UserTest - ********Deleting User***********
+17.39.43.769[main] INFO  api.test.UserTest - ********User Deleted***********
+17.39.43.814[main] INFO  api.test.UserTestRoutes - ********Creating User***********
+17.39.45.308[main] INFO  api.test.UserTestRoutes - ******** User Created**********
+17.39.45.311[main] INFO  api.test.UserTestRoutes - ********Reading User Info***********
+17.39.46.845[main] INFO  api.test.UserTestRoutes - ********Retrieved User***********
+17.39.46.848[main] INFO  api.test.UserTestRoutes - ********Updating User***********
+17.39.49.709[main] INFO  api.test.UserTestRoutes - ******** User updated***********
+17.39.49.712[main] INFO  api.test.UserTestRoutes - ********Deleting User***********
+17.39.51.245[main] INFO  api.test.UserTestRoutes - ********User Deleted***********
+17.51.18.114[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml"
+17.51.18.137[main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml] otherwise TestNG may fail or not work as expected.
+17.51.18.926[main] INFO  api.test.UserTest - ********Creating User***********
+17.51.22.121[main] INFO  api.test.UserTest - ******** User Created**********
+17.51.22.139[main] INFO  api.test.UserTest - ********Reading User Info***********
+17.51.23.515[main] INFO  api.test.UserTest - ********Retrieved User***********
+17.51.23.516[main] INFO  api.test.UserTest - ********Updating User***********
+17.51.26.438[main] INFO  api.test.UserTest - ******** User updated***********
+17.51.26.442[main] INFO  api.test.UserTest - ********Deleting User***********
+17.51.27.806[main] INFO  api.test.UserTest - ********User Deleted***********
+17.51.27.863[main] INFO  api.test.UserTestRoutes - ********Creating User***********
+17.51.29.308[main] INFO  api.test.UserTestRoutes - ******** User Created**********
+17.51.29.311[main] INFO  api.test.UserTestRoutes - ********Reading User Info***********
+17.51.30.741[main] INFO  api.test.UserTestRoutes - ********Retrieved User***********
+17.51.30.744[main] INFO  api.test.UserTestRoutes - ********Updating User***********
+17.51.33.812[main] INFO  api.test.UserTestRoutes - ******** User updated***********
+17.51.33.815[main] INFO  api.test.UserTestRoutes - ********Deleting User***********
+17.51.35.245[main] INFO  api.test.UserTestRoutes - ********User Deleted***********
+18.06.17.675[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml"
+18.06.17.697[main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Nithya\Documents\Work\PetStoreRestAssuredE2E\testng.xml] otherwise TestNG may fail or not work as expected.
+18.06.18.370[main] INFO  api.test.UserTest - ********Creating User***********
+18.06.21.270[main] INFO  api.test.UserTest - ******** User Created**********
+18.06.21.281[main] INFO  api.test.UserTest - ********Reading User Info***********
+18.06.22.794[main] INFO  api.test.UserTest - ********Retrieved User***********
+18.06.22.796[main] INFO  api.test.UserTest - ********Updating User***********
+18.06.25.920[main] INFO  api.test.UserTest - ******** User updated***********
+18.06.25.923[main] INFO  api.test.UserTest - ********Deleting User***********
+18.06.27.455[main] INFO  api.test.UserTest - ********User Deleted***********
+18.06.27.488[main] INFO  api.test.UserTestRoutes - ********Creating User***********
+18.06.28.992[main] INFO  api.test.UserTestRoutes - ******** User Created**********
+18.06.28.993[main] INFO  api.test.UserTestRoutes - ********Reading User Info***********
+18.06.30.426[main] INFO  api.test.UserTestRoutes - ********Retrieved User***********
+18.06.30.429[main] INFO  api.test.UserTestRoutes - ********Updating User***********
+18.06.33.395[main] INFO  api.test.UserTestRoutes - ******** User updated***********
+18.06.33.397[main] INFO  api.test.UserTestRoutes - ********Deleting User***********
+18.06.34.829[main] INFO  api.test.UserTestRoutes - ********User Deleted***********

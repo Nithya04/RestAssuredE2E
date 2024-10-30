@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="PetSuite">
+  <listeners>
+    <listener class-name="api.utilities.ExtentReportManager"/>
+  </listeners>
+
+  <test thread-count="5" name="UserTest">
+    <classes>
+      <class name="api.test.UserTest"/>
+       <class name="api.test.UserTestRoutes"/>
+    </classes>
+  </test> <!-- UserTest -->
+</suite> <!-- PetSuite -->
